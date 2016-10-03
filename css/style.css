@@ -1,0 +1,120 @@
+h1 {
+		color: rgb(2, 132, 130);
+		margin: 0 auto;
+		display: table;
+		text-align: justify;
+}
+
+h2 {
+		color: #ffd700;
+		text-align: center;
+}
+
+#box1 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box2 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box3 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box4 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box5 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box6 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box7 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box8 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+#box9 {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius:10px;
+	background-size: cover;
+	display: inline-block;
+}
+
+.xes {
+	background-image: url("http://i.imgur.com/NKpqI5F.png");
+}
+
+.oes {
+	background-image: url("http://i.imgur.com/r4YJDzh.png");
+}
+
+ul {
+	margin: 0 auto;
+	display: table;
+}
+
+h1 {
+	text-align: center;
+	font-family: fantasy;
+	color: darkblue;
+}
